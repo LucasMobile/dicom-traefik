@@ -2,7 +2,7 @@ package main
 
 import (
     "context"
-    "github.com/traefik/traefik/tree/master/pkg/middlewares"
+    "github.com/traefik/traefik/v3/pkg/middlewares"
     "net"
     "strings"
 )
