@@ -1,0 +1,5 @@
+displayName: DICOM Traefik Plugin
+type: middleware
+import: github.com/LucasMobile/dicom-traefik
+summary: A plugin for routing DICOM traffic
+testData: {}
